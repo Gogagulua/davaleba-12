@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.container {
+  width: 100%;
+  background: #0f172a;
+  font-family: "Poppins", sans-serif;
+}
+
+.container_div {
+  padding: 130px 253px 150px 230px;
+  display: flex;
+  gap: 137px;
+}
+
+.div_lite {
+  display: flex;
+  flex-direction: column;
+}
+
+.div_lite h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 62px;
+  margin-bottom: 19px;
+
+  color: #ffffff;
+}
+.main_p {
+  width: 65%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 40px;
+
+  color: #94a3b8;
+}
+
+.button_1 {
+  width: 444px;
+  height: 60px;
+  background: #1e293b;
+  border-radius: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 49px;
+}
+
+.button_1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.label_1 {
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+
+  color: #e4e4e7;
+  margin-bottom: 10px;
+}
+
+.input_1 {
+  width: 450px;
+  height: 55px;
+  background: none;
+  border-radius: 35px;
+  margin-bottom: 40px;
+  border: 1px solid #94a3b8;
+  padding-left: 22px;
+}
+
+.input_2 {
+  width: 450px;
+  height: 55px;
+  background: none;
+  border-radius: 35px;
+
+  border: 1px solid #94a3b8;
+  padding-left: 22px;
+  margin-bottom: 24px;
+}
+
+.label_2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+
+  color: #e4e4e7;
+}
+.check_div {
+  display: flex;
+  align-items: center;
+}
+
+.button_submit {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  padding: 13.5px 37.5px;
+  margin-top: 30px;
+
+  color: #ffffff;
+  background: #2563eb;
+  border-radius: 50px;
+}
+.end_p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 20px;
+
+  color: #64748b;
+}
+
+span {
+  color: #2563eb;
+}
